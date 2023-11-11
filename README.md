@@ -15,12 +15,6 @@ The program generates a visually intuitive and user-friendly game board, represe
 Player Options:
 Users have the flexibility to choose their opponent from various options, including:
 
-Random AI: A basic AI that makes moves randomly.
-Minimax AI: A sophisticated AI employing the minimax algorithm to make optimal moves and ensure a challenging game.
-Smart AI: An AI with pre-coded strategies, making strategic moves based on a predefined set of rules.
-Human Player: Option to play against another human, supporting a two-player mode.
-AI Decision-Making:
-
 Random AI: Selects moves randomly, adding an element of unpredictability.
 Minimax AI: Utilizes the minimax algorithm to analyze all possible moves and select the best one, ensuring a competitive challenge.
 Smart AI: Employs a set of predefined rules to make intelligent moves, providing strategic gameplay.
@@ -32,10 +26,9 @@ The program ensures a seamless gameplay flow, handling player input, updating th
 
 Technical Details:
 
-Programming Language: The program is implemented in [mention the programming language], utilizing [mention any specific libraries or frameworks].
+Programming Language: The program is implemented in Python.
 Algorithmic Approach: The minimax algorithm is employed for the Minimax AI, providing an optimal strategy for the computer player.
 Modularity: The code is organized into modular components, promoting readability, maintainability, and future extensibility.
 Conclusion:
 The Tic-Tac-Toe program combines a visually appealing interface with versatile gameplay options, allowing users to choose their preferred level of challenge. Whether facing off against a random AI for a casual match or engaging with the strategic depth of the minimax AI, the program delivers a dynamic and enjoyable gaming experience.
 
-Feel free to customize this description based on the specific details and features of your program.
